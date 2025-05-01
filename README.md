@@ -28,3 +28,12 @@ A full-stack web application for managing invoice records, built using **Spring 
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧑‍💻 How to Run
+
+### 🖥️ Backend (Spring Boot):
+1. Navigate to the backend folder:
+   ```bash
+   cd backend
